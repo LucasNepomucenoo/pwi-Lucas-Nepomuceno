@@ -1,0 +1,11 @@
+echo OFF
+
+echo ---configurando Usuario GitHub ----
+echo
+echo
+git config --global user.name "LucasNepomucenoo"
+git config --global user.email "lucasvns@live.com"
+echo
+echo
+echo --- fim ---
+pause
